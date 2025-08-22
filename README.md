@@ -15,31 +15,28 @@
   
 ### 🛠️ Skills 
 
-[ C/C++ ](https://img.shields.io/badge/C%2FC%2B%2B-%20-blue)
-[ C# ](https://img.shields.io/badge/C%23-%20-blue)
-[ Java ](https://img.shields.io/badge/Java-%20-blue)
-[ SQL ](https://img.shields.io/badge/SQL-%20-blue)
-[ Game & XR Development ](https://img.shields.io/badge/Game%20%26%20XR%20Development-%20-blue)
-[ UX/UI Design ](https://img.shields.io/badge/UX%2FUI%20Design-%20-blue)
-[ Web Development ](https://img.shields.io/badge/Web%20Development-%20-blue)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Game & XR Development](https://img.shields.io/badge/Game_&_XR_Development-9D7AD1?style=for-the-badge&logo=oculus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI_Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![User Interviews](https://img.shields.io/badge/User_Interviews-009688?style=for-the-badge&logo=google-forms&logoColor=white)
+![Usability Testing](https://img.shields.io/badge/Usability_Testing-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white)
+![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-8E44AD?style=for-the-badge&logo=mural&logoColor=white)
+![Persona Development](https://img.shields.io/badge/Persona_Development-0066CC?style=for-the-badge&logo=persona&logoColor=white)
+![Storyboarding](https://img.shields.io/badge/Storyboarding-FF4088?style=for-the-badge&logo=storyblok&logoColor=white)
+![Fieldwork](https://img.shields.io/badge/Fieldwork-4CAF50?style=for-the-badge&logo=treehouse&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Laser Cutting](https://img.shields.io/badge/Laser_Cutting-555555?style=for-the-badge&logo=laser&logoColor=white)
+![3D Modelling & Printing](https://img.shields.io/badge/3D_Modelling_&_Printing-FFB300?style=for-the-badge&logo=prusa&logoColor=black)
 
-[ User interviews ](https://img.shields.io/badge/User%20interviews-%20-blue)
-[ Usability testing ](https://img.shields.io/badge/Usability%20testing-%20-blue)
-[ Journey mapping ](https://img.shields.io/badge/Journey%20mapping-%20-blue)
-[ Persona development ](https://img.shields.io/badge/Persona%20development-%20-blue)
-[ Storyboarding ](https://img.shields.io/badge/Storyboarding-%20-blue)
-[ Fieldwork ](https://img.shields.io/badge/Fieldwork-%20-blue)
-
-[ Unity ](https://img.shields.io/badge/Unity-%20-blue)
-[ Figma ](https://img.shields.io/badge/Figma-%20-blue)
-[ Blender ](https://img.shields.io/badge/Blender-%20-blue)
-[ Autodesk Fusion ](https://img.shields.io/badge/Autodesk%20Fusion-%20-blue)
-[ Arduino ](https://img.shields.io/badge/Arduino-%20-blue)
-[ Rstudio ](https://img.shields.io/badge/Rstudio-%20-blue)
-[ GitHub ](https://img.shields.io/badge/GitHub-%20-blue)
-
-[ Laser Cutting ](https://img.shields.io/badge/Laser%20Cutting-%20-blue)
-[ 3D Modelling & Printing ](https://img.shields.io/badge/3D%20Modelling%20%26%20Printing-%20-blue)
 
 <!--
 **MayeZero/MayeZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
